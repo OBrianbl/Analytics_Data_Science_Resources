@@ -16,7 +16,7 @@ List of necessary analytical knowledge for predictive, prescriptive, and descrip
 
 ### Regresion Analysis
 ### Multivariate
-### 
+### Generalized Linear Models
 
 
 ## Database Systems and Managment
