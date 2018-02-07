@@ -1,5 +1,5 @@
 # Maths, Statistics, Analytics and Data Science, and Programming Resources
-Running list of necessary analytical knowledge for analytics, modeling, and data science. I have gone through all of these and I have found useful insight in each one. If you are new to the fields I suggest starting on the top and working your way down through the topics sequentially using any reference that speaks to you.
+Running list of necessary knowledge for analytics, modeling, and data science. I have gone through all of these and I have found useful insight in each one. If you are new to the fields I suggest starting on the top and working your way down through the topics sequentially using any reference that speaks to you.
 
 **I am against illegal distribution of materials. If one of these books is a pirated copy, please inform me so I can remove it promptly.**
 
