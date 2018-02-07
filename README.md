@@ -5,17 +5,17 @@ Running list of necessary analytical knowledge for analytics, modeling, and data
 
 ## Statistics and Data Analysis
 
- #### Courses
+#### Courses
  * [Descriptive Statistics Udacity](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
  * [Intro to Inferential Statistics Udacity](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
  
- #### Books
- 
- ##### Purchase
+#### Books
+
+##### Purchase
  
  * [Basic Statistics by Rand R. Wilcox](https://www.amazon.com/Basic-Statistics-Understanding-Conventional-Insights-ebook/dp/B005NJS8T8) 
  
- ##### Free
+##### Free
  
  * [Online Statistics Education: An Interactive Multimedia Course of Study](http://onlinestatbook.com/2/index.html)
  * [Think Stats by Allen B. Downey](http://greenteapress.com/thinkstats/)
@@ -87,8 +87,8 @@ Running list of necessary analytical knowledge for analytics, modeling, and data
 
 ## Optimization, Decision Analytics
 
-* [Linear Programmig]https://sites.math.washington.edu/~burke/crs/407/lectures/
-* 
+* [Linear Programmig](https://sites.math.washington.edu/~burke/crs/407/lectures/)
+
 
 ### Generalized Linear Models
 
