@@ -58,9 +58,10 @@ Running list of necessary analytical knowledge for analytics, modeling, and data
 #### Courses
 
 #### Videos
+
 * [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 * [Linear Algebra: mathispower4u](http://www.mathispower4u.com/linear-alg.php)
-*
+
 
 #### Books
 
